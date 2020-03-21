@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Anti_DSU.dir/main.cpp.o  -o Anti_DSU 

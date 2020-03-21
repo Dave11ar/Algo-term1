@@ -1,3 +1,0 @@
-/home/dave11ar/GitHub/Algo/Lab/Lab4/LCS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab4/LCS/cmake-build-debug/CMakeFiles/LCS.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab4/LCS/cmake-build-debug/CMakeFiles/edit_cache.dir

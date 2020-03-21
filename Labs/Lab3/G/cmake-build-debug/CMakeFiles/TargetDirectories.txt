@@ -1,3 +1,0 @@
-/home/dave11ar/GitHub/Algo/Lab/Lab3/RMQ_reverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/RMQ_reverse/cmake-build-debug/CMakeFiles/RMQ_reverse.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/RMQ_reverse/cmake-build-debug/CMakeFiles/edit_cache.dir

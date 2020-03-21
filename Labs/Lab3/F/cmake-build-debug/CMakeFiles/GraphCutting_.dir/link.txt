@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/GraphCutting_.dir/main.cpp.o  -o GraphCutting_ 

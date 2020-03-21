@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Salesman.dir/main.cpp.o  -o Salesman 

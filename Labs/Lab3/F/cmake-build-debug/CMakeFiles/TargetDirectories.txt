@@ -1,3 +1,0 @@
-/home/dave11ar/GitHub/Algo/Lab/Lab3/GraphCutting /cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/GraphCutting /cmake-build-debug/CMakeFiles/GraphCutting_.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/GraphCutting /cmake-build-debug/CMakeFiles/edit_cache.dir

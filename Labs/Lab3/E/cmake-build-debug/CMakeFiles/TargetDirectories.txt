@@ -1,3 +1,0 @@
-/home/dave11ar/GitHub/Algo/Lab/Lab3/YetMerdge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/YetMerdge/cmake-build-debug/CMakeFiles/YetMerdge.dir
-/home/dave11ar/GitHub/Algo/Lab/Lab3/YetMerdge/cmake-build-debug/CMakeFiles/edit_cache.dir

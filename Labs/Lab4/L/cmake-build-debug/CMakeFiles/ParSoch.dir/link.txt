@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/ParSoch.dir/main.cpp.o  -o ParSoch 

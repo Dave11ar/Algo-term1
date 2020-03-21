@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Multi_matrix.dir/main.cpp.o  -o Multi_matrix 
