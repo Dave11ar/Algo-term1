@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/KissChat.dir/main.cpp.o  -o KissChat 

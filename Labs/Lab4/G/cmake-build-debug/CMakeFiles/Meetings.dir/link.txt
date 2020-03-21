@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Meetings.dir/main.cpp.o  -o Meetings 

@@ -1,0 +1,3 @@
+/home/dave11ar/GitHub/Algo/Lab/Lab3/KissChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dave11ar/GitHub/Algo/Lab/Lab3/KissChat/cmake-build-debug/CMakeFiles/KissChat.dir
+/home/dave11ar/GitHub/Algo/Lab/Lab3/KissChat/cmake-build-debug/CMakeFiles/edit_cache.dir
